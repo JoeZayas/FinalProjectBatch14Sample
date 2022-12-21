@@ -17,6 +17,12 @@ public class Main {
         planet.temp="3546";
         planet.rings="4";
 
+        Planet2 planet2 = new Planet2();
+        planet2.color="red";
+        planet2.size=45;
+        planet2.temp="3483794";
+        planet2.rings="5";
+
     }
 
 }

@@ -7,9 +7,9 @@ public class Main {
         solar.sun=1;
 
         FeatureSun sun = new FeatureSun();
-        sun.color="green";
-        sun.size="2349857";
-        sun.temp="235";
+        sun.color="greenred";
+        sun.size="23493r234857";
+        sun.temp="2353245243";
 
         Planet1 planet = new Planet1();
         planet.color="red";
